@@ -5,3 +5,4 @@
 /publishPackage.ps1
 /publishPackageToPyPi.ps1
 /buildCode.ps1
+/.idea/
