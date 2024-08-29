@@ -1,13 +1,13 @@
-# CppToPy
+# autoCppToPy
 ## Q&A
-**Q**: What is CppToPy?<br>
-**A**: CppToPy is an easy and fast way to compile C++ code into a Python module
+**Q**: What is autoCppToPy?<br>
+**A**: autoCppToPy is an easy and fast way to compile C++ code into a Python module
 <br><br>
-**Q**: How does CppToPy work under the hood?
-**A**: CppToPy uses pybind11 to compile your C++ code into a python module
+**Q**: How does autoCppToPy work under the hood?
+**A**: autoCppToPy uses pybind11 to compile your C++ code into a python module
 <br><br>
 **Q**: How can I use CppToPy
-**A**: CppToPy can either be imported into your python code, allowing you to compile any C++ file yourself using CppToPy, or it can be used directly in the command line
+**A**: autoCppToPy can either be imported into your python code, allowing you to compile any C++ file yourself using autoCppToPy, or it can be used directly in the command line
 
 ## CLI Documentation
 ### Usage
