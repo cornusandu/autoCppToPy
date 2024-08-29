@@ -1,0 +1,7 @@
+/src/
+/tests.py
+/setup.cfg
+/pyproject.toml
+/publishPackage.ps1
+/publishPackageToPyPi.ps1
+/buildCode.ps1
